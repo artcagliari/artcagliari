@@ -3,12 +3,12 @@
 <p align="left">
   Olá, me chamo <strong>Artur Cagliari</strong> 👋 <br>
   Sou estudante do curso técnico em <strong>Informática</strong> no <strong>IFRS – Campus Bento Gonçalves</strong>, com foco em <strong>desenvolvimento web front-end</strong>.<br>
-  Tenho conhecimentos em <strong>JavaScript</strong>, <strong>HTML</strong>, <strong>CSS</strong> e <strong>Git/GitHub</strong>, adquiridos em projetos acadêmicos e estudos autodidatas.<br>
+  Tenho conhecimentos em <strong>JavaScript</strong>, <strong>HTML</strong>, <strong>CSS</strong> e <strong>Git/GitHub</strong>, strong>TypeScript</strong>, strong>React</strong>, strong>Node</strong>, adquiridos em projetos acadêmicos e estudos autodidatas.<br>
   Busco uma <strong>oportunidade de estágio</strong> ou posição <strong>júnior</strong> para aplicar meus conhecimentos e continuar evoluindo na área de tecnologia.
 </p>
 
 <p align="left">
-  🧠 Habilidades: JavaScript, HTML, CSS, TypeScript, React, Vite, TailWindCSS Git & GitHub
+  🧠 Habilidades: JavaScript, HTML, CSS, TypeScript, React, Vite, TailWindCSS, Node Git & GitHub
 </p>
 
 <p align="left">
@@ -16,7 +16,7 @@
 </p>
 
 <p align="left">
-  💌 Entre em contato comigo por aqui: ⤵️
+  Entre em contato comigo por aqui: ⤵️
 </p>
 
 <p align="left">
