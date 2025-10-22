@@ -8,7 +8,7 @@
 </p>
 
 <p align="left">
-  🧠 Habilidades: JavaScript, HTML, CSS, Git & GitHub
+  🧠 Habilidades: JavaScript, HTML, CSS, TypeScript, React, Vite, TailWindCSS Git & GitHub
 </p>
 
 <p align="left">
