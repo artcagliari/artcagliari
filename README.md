@@ -1,7 +1,7 @@
 <img 
   src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" 
-  alt="Ilustração de desenvolvedor programando" 
-  width="380px" 
+  alt="Ilustração moderna de desenvolvedor programando" 
+  width="390px" 
   align="right"
 />
 
@@ -34,7 +34,7 @@
 <p align="left">
   <img 
     src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,tailwind,php,laravel,git,github" 
-    alt="Tecnologias: HTML, CSS, JavaScript, TypeScript, React, Node.js, TailwindCSS, PHP, Laravel, Git e GitHub"
+    alt="HTML, CSS, JavaScript, TypeScript, React, Node.js, TailwindCSS, PHP, Laravel, Git e GitHub"
   />
 </p>
 
