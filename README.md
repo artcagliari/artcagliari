@@ -1,7 +1,7 @@
 <img 
-  src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" 
+  src="./assets/computer-illustration.png" 
   alt="Ilustração de programação" 
-  width="400px" 
+  width="360px" 
   align="right"
 />
 
@@ -25,6 +25,8 @@
   e novas experiências na área de tecnologia.
 </p>
 
+<br clear="right"/>
+
 ---
 
 ### 🚀 Tecnologias e Habilidades
@@ -41,7 +43,6 @@
   <img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white" />
   <img src="https://img.shields.io/badge/Codex-000000?style=for-the-badge&logo=openai&logoColor=white" />
   <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white" />
-  <img src="https://img.shields.io/badge/AdaptaOne-333333?style=for-the-badge" />
 </p>
 
 ---
