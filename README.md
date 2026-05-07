@@ -1,6 +1,6 @@
 <img 
-  src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" 
-  alt="Ilustração moderna de desenvolvedor programando" 
+  src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" 
+  alt="Ilustração de um computador" 
   width="390px" 
   align="right"
 />
